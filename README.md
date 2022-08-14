@@ -1,6 +1,7 @@
 # Api_Demo
 
 ============== for manual API (POSTMAN) ==============
+
 baseURL = http://localhost:9090
 
 
@@ -37,6 +38,7 @@ Body JSON
 
 
 ============== for data managment SQL ==============
+
 CREATE SCHEMA 'nbcu_together' DEFAULT CHARACTER SET utf8 COLLATE utf8_bin ;
 
 use nbcu_together;
