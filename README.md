@@ -1,5 +1,7 @@
 # Api_Demo
 
+For details check to the RAW
+
 ============== for manual API (POSTMAN) ==============
 
 baseURL = http://localhost:9090
